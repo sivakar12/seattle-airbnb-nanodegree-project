@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/seattle-airbnb-nanodegree-project",
   siteMetadata: {
     title: `Sivakar's Data Explorations Blog`,
     author: {
