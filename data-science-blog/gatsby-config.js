@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sivakar's Data Explorations Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sivakar Sithamparanathan`,
+      summary: ''
+      //summary: `who is now learning from Udacity to be a Data Scientist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog with my data explorations`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sivakar12`,
     },
   },
   plugins: [
