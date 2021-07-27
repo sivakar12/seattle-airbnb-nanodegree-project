@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sivakar's Data Explorations Blog]]></title><description><![CDATA[A starter blog with my data explorations]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 27 Jul 2021 12:34:08 GMT</lastBuildDate><item><title><![CDATA[What are amenities that popular AirBnB spots in Seattle provide?]]></title><description><![CDATA[What kind of facilities are provided by AirBnB listings? How does the different facilities provided by AirBnB listings determine the prices…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/seattle-airbnb/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/seattle-airbnb/</guid><pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;What kind of facilities are provided by AirBnB listings? How does the different facilities provided by AirBnB listings determine the prices and the ratings they get. I worked with the dataset of Seattle listings to find out.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sivakar's Data Explorations Blog]]></title><description><![CDATA[A starter blog with my data explorations]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 27 Jul 2021 14:13:16 GMT</lastBuildDate><item><title><![CDATA[What are amenities that popular AirBnB spots in Seattle provide?]]></title><description><![CDATA[What kind of facilities are provided by AirBnB listings? How does the different facilities provided by AirBnB listings determine the prices…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/seattle-airbnb/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/seattle-airbnb/</guid><pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;What kind of facilities are provided by AirBnB listings? How does the different facilities provided by AirBnB listings determine the prices and the ratings they get. I worked with the dataset of Seattle listings to find out.&lt;/p&gt;
 &lt;h2&gt;Whare are the popular amenities?&lt;/h2&gt;
 &lt;p&gt;These are the facilities/amenities shown as a word cloud. Kitchen, Internet and Heating are the most common.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -7,7 +7,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/09aa805d4830f20d95786cdc7b86357b/6937a/popularity_word_cloud.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/6937a/popularity_word_cloud.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,12 +20,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Popularity Word Cloud&quot;
         title=&quot;Popularity Word Cloud&quot;
-        src=&quot;/static/09aa805d4830f20d95786cdc7b86357b/f058b/popularity_word_cloud.png&quot;
-        srcset=&quot;/static/09aa805d4830f20d95786cdc7b86357b/c26ae/popularity_word_cloud.png 158w,
-/static/09aa805d4830f20d95786cdc7b86357b/6bdcf/popularity_word_cloud.png 315w,
-/static/09aa805d4830f20d95786cdc7b86357b/f058b/popularity_word_cloud.png 630w,
-/static/09aa805d4830f20d95786cdc7b86357b/40601/popularity_word_cloud.png 945w,
-/static/09aa805d4830f20d95786cdc7b86357b/6937a/popularity_word_cloud.png 1094w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/f058b/popularity_word_cloud.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/c26ae/popularity_word_cloud.png 158w,
+/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/6bdcf/popularity_word_cloud.png 315w,
+/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/f058b/popularity_word_cloud.png 630w,
+/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/40601/popularity_word_cloud.png 945w,
+/seattle-airbnb-nanodegree-project/static/09aa805d4830f20d95786cdc7b86357b/6937a/popularity_word_cloud.png 1094w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -40,7 +40,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1c1d24139fd320f49166f8158e1ad929/b59fb/popularity_bar_chart.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/b59fb/popularity_bar_chart.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -53,13 +53,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Popularity Bar Chart&quot;
         title=&quot;Popularity Bar Chart&quot;
-        src=&quot;/static/1c1d24139fd320f49166f8158e1ad929/f058b/popularity_bar_chart.png&quot;
-        srcset=&quot;/static/1c1d24139fd320f49166f8158e1ad929/c26ae/popularity_bar_chart.png 158w,
-/static/1c1d24139fd320f49166f8158e1ad929/6bdcf/popularity_bar_chart.png 315w,
-/static/1c1d24139fd320f49166f8158e1ad929/f058b/popularity_bar_chart.png 630w,
-/static/1c1d24139fd320f49166f8158e1ad929/40601/popularity_bar_chart.png 945w,
-/static/1c1d24139fd320f49166f8158e1ad929/78612/popularity_bar_chart.png 1260w,
-/static/1c1d24139fd320f49166f8158e1ad929/b59fb/popularity_bar_chart.png 1285w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/f058b/popularity_bar_chart.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/c26ae/popularity_bar_chart.png 158w,
+/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/6bdcf/popularity_bar_chart.png 315w,
+/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/f058b/popularity_bar_chart.png 630w,
+/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/40601/popularity_bar_chart.png 945w,
+/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/78612/popularity_bar_chart.png 1260w,
+/seattle-airbnb-nanodegree-project/static/1c1d24139fd320f49166f8158e1ad929/b59fb/popularity_bar_chart.png 1285w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -77,7 +77,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9c085c7017308ff1e8fcb77d66361289/b59fb/amenity_mean_price_bar_chart.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/b59fb/amenity_mean_price_bar_chart.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -90,13 +90,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mean Price for Amenities Present and Absent&quot;
         title=&quot;Mean Price for Amenities Present and Absent&quot;
-        src=&quot;/static/9c085c7017308ff1e8fcb77d66361289/f058b/amenity_mean_price_bar_chart.png&quot;
-        srcset=&quot;/static/9c085c7017308ff1e8fcb77d66361289/c26ae/amenity_mean_price_bar_chart.png 158w,
-/static/9c085c7017308ff1e8fcb77d66361289/6bdcf/amenity_mean_price_bar_chart.png 315w,
-/static/9c085c7017308ff1e8fcb77d66361289/f058b/amenity_mean_price_bar_chart.png 630w,
-/static/9c085c7017308ff1e8fcb77d66361289/40601/amenity_mean_price_bar_chart.png 945w,
-/static/9c085c7017308ff1e8fcb77d66361289/78612/amenity_mean_price_bar_chart.png 1260w,
-/static/9c085c7017308ff1e8fcb77d66361289/b59fb/amenity_mean_price_bar_chart.png 1285w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/f058b/amenity_mean_price_bar_chart.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/c26ae/amenity_mean_price_bar_chart.png 158w,
+/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/6bdcf/amenity_mean_price_bar_chart.png 315w,
+/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/f058b/amenity_mean_price_bar_chart.png 630w,
+/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/40601/amenity_mean_price_bar_chart.png 945w,
+/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/78612/amenity_mean_price_bar_chart.png 1260w,
+/seattle-airbnb-nanodegree-project/static/9c085c7017308ff1e8fcb77d66361289/b59fb/amenity_mean_price_bar_chart.png 1285w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -115,7 +115,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/29fba48100170796d83728d7f2bfa557/511f0/amenity_price_coefs.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/511f0/amenity_price_coefs.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -128,12 +128,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Amenities Regression Coefficients for Price&quot;
         title=&quot;Amenities Regression Coefficients for Price&quot;
-        src=&quot;/static/29fba48100170796d83728d7f2bfa557/f058b/amenity_price_coefs.png&quot;
-        srcset=&quot;/static/29fba48100170796d83728d7f2bfa557/c26ae/amenity_price_coefs.png 158w,
-/static/29fba48100170796d83728d7f2bfa557/6bdcf/amenity_price_coefs.png 315w,
-/static/29fba48100170796d83728d7f2bfa557/f058b/amenity_price_coefs.png 630w,
-/static/29fba48100170796d83728d7f2bfa557/40601/amenity_price_coefs.png 945w,
-/static/29fba48100170796d83728d7f2bfa557/511f0/amenity_price_coefs.png 1172w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/f058b/amenity_price_coefs.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/c26ae/amenity_price_coefs.png 158w,
+/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/6bdcf/amenity_price_coefs.png 315w,
+/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/f058b/amenity_price_coefs.png 630w,
+/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/40601/amenity_price_coefs.png 945w,
+/seattle-airbnb-nanodegree-project/static/29fba48100170796d83728d7f2bfa557/511f0/amenity_price_coefs.png 1172w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -150,7 +150,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/509bd714545b754fb4442db3764440d5/b59fb/amenity_mean_rating_bar_chart.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/b59fb/amenity_mean_rating_bar_chart.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -163,13 +163,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mean Rating for Amenities Present and Absent&quot;
         title=&quot;Mean Rating for Amenities Present and Absent&quot;
-        src=&quot;/static/509bd714545b754fb4442db3764440d5/f058b/amenity_mean_rating_bar_chart.png&quot;
-        srcset=&quot;/static/509bd714545b754fb4442db3764440d5/c26ae/amenity_mean_rating_bar_chart.png 158w,
-/static/509bd714545b754fb4442db3764440d5/6bdcf/amenity_mean_rating_bar_chart.png 315w,
-/static/509bd714545b754fb4442db3764440d5/f058b/amenity_mean_rating_bar_chart.png 630w,
-/static/509bd714545b754fb4442db3764440d5/40601/amenity_mean_rating_bar_chart.png 945w,
-/static/509bd714545b754fb4442db3764440d5/78612/amenity_mean_rating_bar_chart.png 1260w,
-/static/509bd714545b754fb4442db3764440d5/b59fb/amenity_mean_rating_bar_chart.png 1285w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/f058b/amenity_mean_rating_bar_chart.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/c26ae/amenity_mean_rating_bar_chart.png 158w,
+/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/6bdcf/amenity_mean_rating_bar_chart.png 315w,
+/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/f058b/amenity_mean_rating_bar_chart.png 630w,
+/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/40601/amenity_mean_rating_bar_chart.png 945w,
+/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/78612/amenity_mean_rating_bar_chart.png 1260w,
+/seattle-airbnb-nanodegree-project/static/509bd714545b754fb4442db3764440d5/b59fb/amenity_mean_rating_bar_chart.png 1285w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -185,7 +185,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f9ff0d37af158b5894ac650b5d947b60/0d40b/amenity_rating_coefs.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/0d40b/amenity_rating_coefs.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -198,12 +198,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Amenities Regression Coefficients for Rating&quot;
         title=&quot;Amenities Regression Coefficients for Rating&quot;
-        src=&quot;/static/f9ff0d37af158b5894ac650b5d947b60/f058b/amenity_rating_coefs.png&quot;
-        srcset=&quot;/static/f9ff0d37af158b5894ac650b5d947b60/c26ae/amenity_rating_coefs.png 158w,
-/static/f9ff0d37af158b5894ac650b5d947b60/6bdcf/amenity_rating_coefs.png 315w,
-/static/f9ff0d37af158b5894ac650b5d947b60/f058b/amenity_rating_coefs.png 630w,
-/static/f9ff0d37af158b5894ac650b5d947b60/40601/amenity_rating_coefs.png 945w,
-/static/f9ff0d37af158b5894ac650b5d947b60/0d40b/amenity_rating_coefs.png 1175w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/f058b/amenity_rating_coefs.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/c26ae/amenity_rating_coefs.png 158w,
+/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/6bdcf/amenity_rating_coefs.png 315w,
+/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/f058b/amenity_rating_coefs.png 630w,
+/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/40601/amenity_rating_coefs.png 945w,
+/seattle-airbnb-nanodegree-project/static/f9ff0d37af158b5894ac650b5d947b60/0d40b/amenity_rating_coefs.png 1175w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -220,7 +220,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/11fa56028d742aa6a87d514c462222f0/160a3/amenities_correlations_heatmap.png&quot;
+    href=&quot;/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/160a3/amenities_correlations_heatmap.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -233,11 +233,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Heatmap for Amenities&amp;#39; Correlations&quot;
         title=&quot;Heatmap for Amenities&amp;#39; Correlations&quot;
-        src=&quot;/static/11fa56028d742aa6a87d514c462222f0/f058b/amenities_correlations_heatmap.png&quot;
-        srcset=&quot;/static/11fa56028d742aa6a87d514c462222f0/c26ae/amenities_correlations_heatmap.png 158w,
-/static/11fa56028d742aa6a87d514c462222f0/6bdcf/amenities_correlations_heatmap.png 315w,
-/static/11fa56028d742aa6a87d514c462222f0/f058b/amenities_correlations_heatmap.png 630w,
-/static/11fa56028d742aa6a87d514c462222f0/160a3/amenities_correlations_heatmap.png 682w&quot;
+        src=&quot;/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/f058b/amenities_correlations_heatmap.png&quot;
+        srcset=&quot;/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/c26ae/amenities_correlations_heatmap.png 158w,
+/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/6bdcf/amenities_correlations_heatmap.png 315w,
+/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/f058b/amenities_correlations_heatmap.png 630w,
+/seattle-airbnb-nanodegree-project/static/11fa56028d742aa6a87d514c462222f0/160a3/amenities_correlations_heatmap.png 682w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
