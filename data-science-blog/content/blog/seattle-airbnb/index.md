@@ -3,6 +3,7 @@ title: What are amenities that popular AirBnB spots in Seattle provide?
 date: "2021-07-27"
 description: "An exploration of the amenities in Seattle AirBnB data"
 ---
+![Seattle sky line](./seattle.png)
 
 What kind of facilities are provided by AirBnB listings? How does the different facilities provided by AirBnB listings determine the prices and the ratings they get. I worked with the dataset of Seattle listings to find out.
 
@@ -10,7 +11,6 @@ What kind of facilities are provided by AirBnB listings? How does the different 
 
 These are the facilities/amenities shown as a word cloud. Kitchen, Internet and Heating are the most common. 
 
-![Popularity Word Cloud](./popularity_word_cloud.png)
 
 For a more granular look, here is a bar chart of the counts of features.
 
