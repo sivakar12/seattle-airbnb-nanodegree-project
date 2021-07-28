@@ -11,6 +11,7 @@ What kind of facilities are provided by AirBnB listings? How does the different 
 
 These are the facilities/amenities shown as a word cloud. Kitchen, Internet and Heating are the most common. 
 
+![Popularity Word Cloud](./popularity_word_cloud.png)
 
 For a more granular look, here is a bar chart of the counts of features.
 
