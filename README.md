@@ -23,4 +23,8 @@ This is a dataset of AirBnB listings in Seattle. It has details about the prices
 * data-science-blog - folder containing the Gatsby blog
 
 # Blog Post
-The blog post can be found at https://sivakar12.github.io/seattle-airbnb-nanodegree-project/
+The blog post can be found at https://sivakar12.github.io/seattle-airbnb-nanodegree-project/seattle-airbnb/
+
+# Acknowledgements
+1. Udacity Data Scientist Nanodegree program
+2. Documentation of the libraries mentioned above
