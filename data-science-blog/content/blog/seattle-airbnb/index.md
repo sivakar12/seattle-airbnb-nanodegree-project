@@ -61,4 +61,8 @@ To see which amenities occur together, I got the Person's Cofficient for each pa
 
 The bright colored parts indicate that when there is ironing facility, hangers and hair dryers are also usually present. Properties that have pets living, allow hosts to bring pets.
 
-Using insights from this, it is possible for hosts to do things to their properties so that they can raise their prices and get better rating. Simply making sure there Internet or Shampoo available gets them a bigger rating.
+## Outro
+
+Using insights from this, it is possible for hosts to do things to their properties so that they can raise their prices and get better rating. Simply making sure there Internet or Shampoo available gets them a bigger rating. 
+
+More details can be found in the notebooks available in [this GitHub repository](https://github.com/sivakar12/seattle-airbnb-nanodegree-project)
